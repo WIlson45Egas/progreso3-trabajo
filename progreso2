@@ -1,0 +1,241 @@
+#include <stdio.h>
+ 
+
+int main(){
+    //incialializamos los datos que vamos a ultilizar  y empezamos a realizar el proceso
+  int estudiantes, promedio;
+  int progreso2, progreso3;
+  int nota1,nota2,nota3,nota4,nota5,nota6,nota7,nota8,nota9,nota10,nota11,nota12,nota13,nota14,nota15,nota16,nota17,nota18,nota19,nota20,nota21,nota22,nota23;
+  //Realizamos el proceso de cada uno de los procesos al respecto
+  
+  printf("Ingrese el numero de estudiantes en total:");
+  scanf("%d", &estudiantes);
+   
+    
+  printf("Ingrese la nota del primer estudiante del 1 al 10:");
+  scanf("%d",&nota1);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+   
+   if(nota1>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del segundo estudiante del 1 al 10:");
+  scanf("%d",&nota2);
+   printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota2>10);
+   printf("Solo pueden ser valores del 1 al 10");
+   
+ 
+
+  printf("Ingrese la nota del tercer estudiante del 1 al 10:");
+  scanf("%d",&nota3);
+    printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota3>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+
+  printf("Ingrese la nota del cuarto estudiante del 1 al 10:");
+  scanf("%d",&nota4);
+
+ printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota4>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del quinto estudiante del 1 al 10:");
+  scanf("%d",&nota5);
+   printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota5>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del sexto estudiante del 1 al 10:");
+  scanf("%d",&nota6);
+    printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota6>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+
+    
+  printf("Ingrese la nota del septimo estudiante del 1 al 10:");
+  scanf("%d",&nota7);
+   printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota7>10);
+   printf("Solo pueden ser valores del 1 al 10");
+   
+  
+  printf("Ingrese la nota del octavo estudiante del 1 al 10:");
+  scanf("%d",&nota8);
+    printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota8>10);
+   printf("Solo pueden ser valores del 1 al 10");
+   
+  printf("Ingrese la nota del noveno estudiante del 1 al 10:");
+  scanf("%d",&nota9);
+   printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota9>10);
+   printf("Solo pueden ser valores del 1 al 10");
+ 
+  printf("Ingrese la nota del decimo estudiante del 1 al 10:");
+  scanf("%d",&nota10);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota10>10);
+   printf("Solo pueden ser valores del 1 al 10");
+   
+  printf("Ingrese la nota del decimo primer estudiante del 1 al 10:");
+  scanf("%d",&nota11);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota11>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del decimo segundo estudiante del 1 al 10:");
+  scanf("%d",&nota12);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota12>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+
+
+  printf("Ingrese la nota del decimo tercero estudiante del 1 al 10:");
+  scanf("%d",&nota13);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota13>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del decimo cuarto estudiante del 1 al 10:");
+  scanf("%d",&nota14);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota14>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  
+  printf("Ingrese la nota del decimo quinto estudiante del 1 al 10:");
+  scanf("%d",&nota15);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota15>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+
+  printf("Ingrese la nota del decimo sexto estudiante del 1 al 10:");
+  scanf("%d",&nota16);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota16>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del decimo septimo estudiante del 1 al 10:");
+  scanf("%d",&nota17);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota17>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del decimo octavo estudiante del 1 al 10:");
+  scanf("%d",&nota18);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota18>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del decimo noveno estudiante del 1 al 10:");
+  scanf("%d",&nota19);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota19>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del vigecimo estudiante del 1 al 10:");
+  scanf("%d",&nota20);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota20>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del vigecimo primero estudiante del 1 al 10:");
+  scanf("%d",&nota21);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota21>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del vigecimo segundo estudiante del 1 al 10:");
+  scanf("%d",&nota22);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota22>10);
+   printf("Solo pueden ser valores del 1 al 10");
+
+  printf("Ingrese la nota del vigecimo tercer estudiante del 1 al 10:");
+  scanf("%d",&nota23);
+  printf("Ingrese la nota del progreso 2:");
+  scanf("%d",&progreso2);
+   printf("Ingrese la nota del progreso 3:");
+  scanf("%d",&progreso3);
+  if(nota23>10);
+   printf("Solo pueden ser valores del 1 al 10");
+  
+  //Despues de todo el proceso que tenemos tenemos que determinar los datos que nos saldran y obtener el promedio total
+
+  printf("EL promedio total es:");
+   promedio=progreso2+progreso3;
+  
+  printf("El alumno con mayor nota es:");
+  
+} 
